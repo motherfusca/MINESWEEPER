@@ -1,3 +1,4 @@
+
 const generatePlayerBoard = (numberOfRows, numberOfColumns) => {
   let board = [];
   for (let i = 0; i < numberOfRows; i++)
